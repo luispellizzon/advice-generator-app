@@ -1,0 +1,14 @@
+{
+  "name": "advice-generator-app-main",
+  "version": "1.0.0",
+  "description": "Advices API",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Luis Pellizzon",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}

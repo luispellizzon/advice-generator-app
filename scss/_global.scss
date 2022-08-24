@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@700&display=swap");
+@import "variables";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: $dark-blue;
+  font-family: "Manrope", sans-serif;
+}
