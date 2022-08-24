@@ -10,11 +10,9 @@ btn.addEventListener("click", async function () {
 
   quote.classList.add("fade-in");
 
-  quote.innerText = ` ${advice} `;
+  quote.innerText = `${advice}`;
   quoteId.innerText = id;
   dice.style.animation = "roll 1s forwards";
-
-  console.log(quote.innerText);
 
   setTimeout(function () {
     dice.style.animation = "";
