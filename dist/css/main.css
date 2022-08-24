@@ -25,7 +25,7 @@ body {
     gap: 2rem;
     border-radius: 20px;
     margin: 2rem; }
-    .main .advice-container h3 {
+    .main .advice-container h1 {
       text-transform: uppercase;
       color: #52ffa8;
       font-size: 1rem;
